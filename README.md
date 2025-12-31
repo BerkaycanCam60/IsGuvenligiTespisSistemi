@@ -45,17 +45,20 @@ Model 10 epoch boyunca eğitilmiştir:
 ## 🛠️ Kurulum
 
 1. Repository'yi klonlayın:
+
 ```bash
 git clone https://github.com/eminguness/is-guvenligi-yolo-detection.git
 cd is-guvenligi-yolo-detection
 ```
 
 2. Gerekli paketleri yükleyin:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 3. Jupyter Notebook'u çalıştırın:
+
 ```bash
 jupyter notebook src/is_sagligi_güvenligi.ipynb
 ```
@@ -82,14 +85,11 @@ jupyter notebook src/is_sagligi_güvenligi.ipynb
 4. Push yapın (`git push origin feature/yeni-ozellik`)
 5. Pull Request oluşturun
 
-
-
 ## 👥 İletişim
 
-- **Proje Sahibi**: Emin Güneş
-- **Email**: emingunes723@gmail.com
+- **Proje Sahibi**: Berkay Can Çam - Emin Güneş
+- **Email**: berkaycan.1565@gmail.com
 
 ---
-
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
